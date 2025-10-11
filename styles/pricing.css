@@ -1,5 +1,5 @@
 .pricing {
-    padding: 95px 0 144px 0;
+    padding: 95px 0 145px 0;
     background-color: var(--co-dark-green);
 }
 
@@ -24,6 +24,8 @@
     align-items: start;
     row-gap: 60px;
 }
+
+.pricing__nav-item {}
 
 .pricing__nav-link {
     font-size: 25px;
